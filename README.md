@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @FawadAli
+- 👋 Hi, I’m Fawad
 - 👀 I’m interested in Mobile Application Development.
 - 🌱 I’m currently learning flutter and previously i have native android application development experience.
 - 💞️ I’m looking to collaborate with your.
