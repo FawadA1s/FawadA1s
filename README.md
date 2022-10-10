@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FawadAli
-- 👀 I’m interested in Mobile application Development.
+- 👀 I’m interested in Mobile Application Development.
 - 🌱 I’m currently learning flutter and previously i have native android application development experience.
 - 💞️ I’m looking to collaborate with your.
 - 📫 How to reach me => email: fawadali.a1strategez@gmail.com
